@@ -76,13 +76,16 @@ Next, create an Ionic Angular app that uses the “Tabs” starter template and 
 ```shell
 ionic start photo-gallery tabs --type=angular --capacitor
 ```
+```
 ? Would you like to build your app with NgModules or Standalone Components? 
  Standalone components are a new way to build with Angular that simplifies the way you build your app. 
  To learn more, visit the Angular docs:
  https://angular.io/guide/standalone-components
 
  V NgModules
- V standalon e
+ V standalone
+```
+what should I do?.
 
 This starter project comes complete with three pre-built pages and best practices for Ionic development. With common building blocks already in place, we can add more features easily!
 
